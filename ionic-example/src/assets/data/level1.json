@@ -1,0 +1,87 @@
+{
+  "duration": 35,
+  "enemies": 
+  [
+    {
+      "time": 1,
+      "x": 0.05,
+      "health": 6,
+      "speedX": 20, 
+      "speedY": 50,
+      "key": "greenEnemy",
+      "scale": 3
+    },
+    {
+      "time": 5,
+      "x": 0.1,
+      "health": 3,
+      "speedX": 50, 
+      "speedY": 50,
+      "key": "greenEnemy",
+      "scale": 1
+    },
+    {
+      "time": 10,
+      "x": 0.1,
+      "health": 3,
+      "speedX": 50, 
+      "speedY": 50,
+      "key": "greenEnemy",
+      "scale": 1
+    },
+    {
+      "time": 15,
+      "x": 0.1,
+      "health": 3,
+      "speedX": 50, 
+      "speedY": 50,
+      "key": "greenEnemy",
+      "scale": 1
+    },
+    {
+      "time": 20,
+      "x": 0.1,
+      "health": 3,
+      "speedX": 50, 
+      "speedY": 50,
+      "key": "greenEnemy",
+      "scale": 1
+    },
+    {
+      "time": 25,
+      "x": 0.1,
+      "health": 6,
+      "speedX": 50, 
+      "speedY": 50,
+      "key": "greenEnemy",
+      "scale": 3
+    },
+    {
+      "time": 30,
+      "x": 0.9,
+      "health": 3,
+      "speedX": -50, 
+      "speedY": 50,
+      "key": "redEnemy",
+      "scale": 2
+    },
+    {
+      "time": 35,
+      "x": 0.9,
+      "health": 3,
+      "speedX": -50, 
+      "speedY": 50,
+      "key": "redEnemy",
+      "scale": 1
+    },
+    {
+      "time": 40,
+      "x": 0.9,
+      "health": 3,
+      "speedX": -50, 
+      "speedY": 50,
+      "key": "redEnemy",
+      "scale": 1
+    }    
+  ]
+}
